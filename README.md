@@ -4,6 +4,8 @@ This project is a quiz application created using HTML, CSS, and JavaScript. It a
 
 # Demo
 
+![Quiz](https://github.com/UmitAygunn/Quiz-App/assets/140657845/f114ca37-8929-445c-87c0-831f4686fcfc)
+
 Live Demo - Try out the live demo of the quiz app to test your knowledge and review your answers.
 1) https://653397c64e7993063c794893--startling-kulfi-19d15f.netlify.app/
 
